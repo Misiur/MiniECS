@@ -1,0 +1,19 @@
+{
+  "name": "miniecs",
+  "version": "1.0.0",
+  "description": "Miniature ECS for JS",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Misiur/MiniECS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Misiur/MiniECS/issues"
+  },
+  "homepage": "https://github.com/Misiur/MiniECS#readme"
+}
